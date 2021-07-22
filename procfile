@@ -1,1 +1,1 @@
-web:dunicorn crm1.wsgi --log-file -
+web:dunicorn backend.wsgi --log-file -
